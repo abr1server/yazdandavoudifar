@@ -42,6 +42,9 @@ BUGS
 ##  July 24th 2021 - Script is not working on Centos 8 will have a fix soon !
 
 
+##  July 24th 2024 - Script is not working on Centos 8 will have a fix soon !
+
+
       _       __                  __      ______                                         
      / \     [  |                /  |   .' ____ \                                        
     / _ \     | |.--.   _ .--.   `| |   | (___ \_| .---.  _ .--.  _   __  .---.  _ .--.  
@@ -50,7 +53,8 @@ BUGS
 |____| |____|[__;.__.' [___]    |_____|  \______.' '.__.'[___]     \__/   '.__.'[___]    
                                                                                          
                                                                                          
-www.Abr1Server.com
+www.Abr1Server.com 
+                                                                                         
 
 
 
